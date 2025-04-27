@@ -9,7 +9,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=c8979e&center=true&vCenter=true&repeat=false&random=false&width=800&lines=Chingkheinganba+Thoudam" alt="Typing SVG" /></a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&duration=3000&pause=1000&color=c8979e&center=true&vCenter=true&random=false&width=500&lines=Junior+Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&duration=3000&pause=1000&color=c8979e&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  I am a passionate and results-oriented Junior Software Developer with a strong interest in **Python**, **Machine Learning**, and **Artificial Intelligence**. I am currently working at **Lamzing Technologies Private Limited** where I am gaining valuable experience in software development best practices and contributing to real-world projects.
+  I am a passionate and results-oriented Software Developer with a strong interest in **Python**, **Machine Learning**, and **Artificial Intelligence**. I am currently working at **Lamzing Technologies Private Limited** where I am gaining valuable experience in software development best practices and contributing to real-world projects.
 
 <br/>
   
