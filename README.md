@@ -1,79 +1,160 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chingkhei-th&label=Profile%20views&color=0e75b6&style=flat" alt="chingkhei-th" /> </p>
-
-<div align="center">
-  <img src="images\lennart-butz-idea5anim4-ezgif.com-crop.gif" width= 1200 height= 220/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<br/>
+###
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=c8979e&center=true&vCenter=true&repeat=false&random=false&width=800&lines=Chingkheinganba+Thoudam" alt="Typing SVG" /></a>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&duration=3000&pause=1000&color=c8979e&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<h1 align="left">
+Hello World! </br>
+I'm Chingkheinganba Thoudam <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 </h1>
 
+###
 
-<h3 align="center">A passionate software developer from Manipur, India</h3>
+<h3 align="left">
+Software Developer | ML Student | TUI Connoisseur
+</h3>
 
-<div align="center">
+###
 
-  I am a passionate and results-oriented Software Developer with a strong interest in **Python**, **Machine Learning**, and **Artificial Intelligence**. I am currently working at **Lamzing Technologies Private Limited** where I am gaining valuable experience in software development best practices and contributing to real-world projects.
+<p align="left">
+I am a Software Developer who believes the mouse is a mistake (but still use for every task). My mission? To create efficient, robust code in Python, C, and C++.
+</p>
 
-<br/>
-  
-  <a href="https://www.linkedin.com/in/chingkheinganba-thoudam-814123171/" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/c8979e/linkedin.png" alt="linkedin"/></a>  
-  <a href="mailto:chingkhei.thoudam@outlook.com"><img width="50" height="50" src="images\icons8-email-50.png" alt="new-post"/></a> 
-  <a href="https://twitter.com/ching_th_" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/ios/50/c8979e/twitterx--v2.png" alt="twitterx--v2"/></a>
+###
 
-</div>
+<p align="left">
+Currently, I am learning Machine Learning and AI—teaching computers how to think so I can spend more time tweaking my dotfiles—while simultaneously obsessing over Terminal User Interfaces (TUI). If my terminal doesn't look aesthetically pleasing, I can't write code.
+</p>
 
-<hr/>
+###
 
-<div align="center">
-  <h2 style="color: #ba8c93;">⚒️ | Languages and Tools</h2>
-  <br/>
-  <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-</div>
-<hr/>
+<h2 align="left">
+✎ᝰ. What I'm Working On
+</h2>
 
-<div align="center">
-  <h2 style="color: #ba8c93;">🐍 | My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chingkhei-th/chingkheinganba-thoudam/output/github-contribution-grid-snake.gif" />
-  
-  <br/>
-</div>
-<hr/>
+###
 
-<!-- BADGES -->
-<div align="center">
-  <h2 style="color: #ba8c93;">🏆 | My Badges</h2>
-  <br/>
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chingkhei-th" alt="chingkhei-th" /></a> </p>
-</div>
-<hr/>
+- **Configuring Neovim:** Just one more Lua script, I promise.<br>
+- **Machine Learning:** Currently in the "what is a gradient and why is it descending?" phase.<br>
+- **Yazi & TUIs:** Ditching my GUI file manager for yazi. Icons are bloat (unless they are Nerd Fonts).<br>
+- **Terminal Aesthetics:** Crafting the most beautiful CLI environment known to man.
 
+###
 
-<div align="center">
-  <h2 style="color: #ba8c93;">⚡ | Stats</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chingkhei-th&show_icons=true&locale=en&layout=compact&theme=dark" alt="chingkhei-th" /></p>
+<h2 align="left">
+×͜× Fun Fact
+</h2>
 
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chingkhei-th&show_icons=true&locale=en&theme=dark" alt="chingkhei-th" /></p>
+###
 
-  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=chingkhei-th&theme=dark" alt="chingkhei-th" /></p>
-</div>
-<hr/>
-<br/>
+- **Current WPM:** Blazingly fast (unless I make a typo).<br>
+- **Exit Strategy:** `Esc` + `:wq!` is muscle memory. `Ctrl+C` is for the weak.<br>
+- I use **Neovim**, btw.
+
+###
+
+<h2 align="left">
+𖦹.ᐟ Tools & Technologies
+</h2>
 
 <div align="center">
-  <img src="./images/git_meme.jpg" width="150"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
-<br/>
+---
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chingkhei-th/chingkhei-th/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chingkhei-th/chingkhei-th/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chingkhei-th/chingkhei-th/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+###
+
+<h2>
+ᝰ.ᐟ Github Stats and Activity
+</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1500&color=fb8c00&center=true&vCenter=true&random=false&width=1200&separator=%3C&lines=There+is+always+one+more+bug+to+fix.++%E2%80%93+Ellen+Ullman%3CSoftware+is+like+sex%3A+it%E2%80%99s+better+when+it%E2%80%99s+free.+%E2%80%93+Linus+Torvalds%3CMake+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%93+Kent+Beck%3CFirst%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%93+John+Johnson%3CIt%E2%80%99s+not+a+bug;+it%E2%80%99s+an+undocumented+feature.+%E2%80%95+Anonymous" alt="Typing SVG" /></a>
-</div>
-<hr/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chingkhei-th&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Ching's%20Stats%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%F0%93%85%B0%20%F0%93%85%AC%20%F0%93%85%AD%20%F0%93%85%AE%20%F0%93%85%AF" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chingkhei-th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2&custom_title=Most%20Used%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%F0%90%A6%82%F0%96%A8%86%F0%90%80%AA%F0%96%A0%8B%F0%90%80%AA%F0%90%80%AA" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chingkhei-th&radius=16&theme=github-dark&area=true&order=5&custom_title=Ching's%20Contributions%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86%EF%BD%A1%20%EF%BE%9F%E2%98%BE%20%EF%BE%9F%EF%BD%A1%E2%8B%86&hide_border=true" height="300" alt="activity-graph graph"  />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&duration=9000&pause=1500&color=c8979e&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Thanks+for+your+visit!+%3C3" alt="Typing SVG" /></a>
+  <img src="https://streak-stats.demolab.com?user=chingkhei-th&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+---
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chingkhei-th.chingkhei-th&left_color=darkgreen&right_color=darkgreen&left_text=-%60%E2%99%A1%C2%B4-"  />
+</div>
+
+###
