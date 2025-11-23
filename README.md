@@ -129,6 +129,10 @@ Currently, I am learning Machine Learning and AI—teaching computers how to thi
 ---
 ###
 
+<h2 align="left">
+𓀤𓀥 Ching's Contributions
+</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chingkhei-th/chingkhei-th/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chingkhei-th/chingkhei-th/output/pacman-contribution-graph.svg">
@@ -138,17 +142,20 @@ Currently, I am learning Machine Learning and AI—teaching computers how to thi
 ---
 ###
 
-<h2>
-ᝰ.ᐟ Github Stats and Activity
-</h2>
+<details>
+  <summary>
+    <h2 align="left">
+    ᝰ.ᐟ Github Stats and Activity
+  </h2>
+  </summary>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chingkhei-th&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Ching's%20Stats%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%F0%93%85%B0%20%F0%93%85%AC%20%F0%93%85%AD%20%F0%93%85%AE%20%F0%93%85%AF" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chingkhei-th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2&custom_title=Most%20Used%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%F0%90%A6%82%F0%96%A8%86%F0%90%80%AA%F0%96%A0%8B%F0%90%80%AA%F0%90%80%AA" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chingkhei-th&radius=16&theme=github-dark&area=true&order=5&custom_title=Ching's%20Contributions%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86%EF%BD%A1%20%EF%BE%9F%E2%98%BE%20%EF%BE%9F%EF%BD%A1%E2%8B%86&hide_border=true" height="300" alt="activity-graph graph"  />
-
-  <img src="https://streak-stats.demolab.com?user=chingkhei-th&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=chingkhei-th&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Ching's%20Stats%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%F0%93%85%B0%20%F0%93%85%AC%20%F0%93%85%AD%20%F0%93%85%AE%20%F0%93%85%AF" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chingkhei-th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2&custom_title=Most%20Used%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%F0%90%A6%82%F0%96%A8%86%F0%90%80%AA%F0%96%A0%8B%F0%90%80%AA%F0%90%80%AA" height="150" alt="languages graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chingkhei-th&radius=16&theme=github-dark&area=true&order=5&custom_title=Ching's%20Contributions%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86%EF%BD%A1%20%EF%BE%9F%E2%98%BE%20%EF%BE%9F%EF%BD%A1%E2%8B%86&hide_border=true" height="300" alt="activity-graph graph"  />
+    <img src="https://streak-stats.demolab.com?user=chingkhei-th&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  </div>
+</details>
 
 ---
 ###
